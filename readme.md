@@ -7,9 +7,9 @@ javascript
 css
 
 CHALLENGES FACED-
-Government api for covid data.
-building user friendly interface
-filtering the data out of json files provided by the API.
+Government api for covid data.<br />
+building user friendly interface.<br />
+filtering the data out of json files provided by the API.<br />
 
 OUTCOME-
 This is a cross-platform mobile application that uses global covid-19 data API to display covid-19 cases around you and in your city and locality, depending upon the data received it can predict how many precautions one must take and how much an area is prone to infection. The app collected basic personal data that was used to display precautions one must take according to the age group they belong to.  The application also took covid-19 related data from the national health website and displayed it with reference. The application was capable of fetching custom queries to the google news website. All the features in this application were divided into pages that can be navigated through an icon based menu.  
